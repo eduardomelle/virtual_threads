@@ -42,7 +42,7 @@ public class Demo {
 
 			long end = System.currentTimeMillis();
 
-			System.out.println(start - end + " ms");
+			System.out.println(end - start + " ms");
 		}
 	}
 
