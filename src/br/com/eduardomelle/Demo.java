@@ -16,7 +16,8 @@ public class Demo {
 	 * @throws Exception
 	 */
 	public static void main(String[] args) throws Exception {
-		new Demo().run();
+		// new Demo().run();
+		new Demo().runExecutor();
 	}
 
 	void run() throws Exception {
